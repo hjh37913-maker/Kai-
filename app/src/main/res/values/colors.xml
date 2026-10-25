@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- KAI Design System — semantic color roles -->
+    <color name="background_primary">#FF0A0E16</color>
+    <color name="background_secondary">#FF111827</color>
+    <color name="surface_primary">#FF161E2E</color>
+    <color name="surface_elevated">#FF1E293B</color>
+    <color name="surface_glass">#28FFFFFF</color>
+
+    <color name="text_primary">#FFF8FAFC</color>
+    <color name="text_secondary">#B0FFFFFF</color>
+    <color name="text_tertiary">#70FFFFFF</color>
+
+    <color name="accent_primary">#FF0A84FF</color>
+    <color name="accent_secondary">#FF5AC8FA</color>
+
+    <color name="outline_subtle">#33FFFFFF</color>
+    <color name="state_error">#FFFF6B6B</color>
+    <color name="state_success">#FF4ADE80</color>
+    <color name="state_warning">#FFFBBF24</color>
+
+    <!-- Legacy / launcher specific -->
+    <color name="studio_bg">#FF0B0F18</color>
+    <color name="ic_launcher_background">#FF0E1B3D</color>
+
+    <!-- Preset accent suggestions -->
+    <color name="accent_graphite">#FF9CA3AF</color>
+    <color name="accent_deep_blue">#FF60A5FA</color>
+    <color name="accent_glass">#FFA5B4FC</color>
+</resources>
